@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="mukund.jogi@digi-corp.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.digi-corp.com" />
+          <option name="userName" value="mukund.jogi" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/downloads/Easy-Menu" />
